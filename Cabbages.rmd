@@ -37,15 +37,15 @@ We looked at the variables and it looked like we had numerical variables which i
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
-### Numerical Descriptive Results
-
-<!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
-
 ```{r}
 boxplot(VitC~Cult,data=veggy)
 ```
 
-Box c52 is higher than c39. This means the first quartile of c52 is larger than 39 and that concludes that they are statistically different. 
+Box c52 is higher than c39. This means the first quartile of c52 is larger than 39 and that concludes that they are statistically different.
+
+### Numerical Descriptive Results
+
+<!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ## Inferential Results
 
