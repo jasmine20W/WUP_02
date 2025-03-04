@@ -66,3 +66,5 @@ I reject the null hypothesis because the chances are an extremely small number a
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+We first examined the boxplot for VitC and found the difference in average between c39 and c52. We found out that there are statistically different. We then examined the numerical results in which we found the numerical values of c39 and c52. Finally, we wrote the hypothesis in inferential results in which we rejected the null hypothesis because the chances are exteremly low. Making c39 and c52 significantly different. 
