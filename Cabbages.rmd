@@ -23,6 +23,8 @@ veggy <- cabbages
 
 # Methods
 
+We looked at the variables and it looked like we had numerical variables which is the numerical variable is going to be how much Vitamin C variable (numerical variable) is contained between the two different cultivation methods. Those cultivation methods are c39 and c52 methods and those are the categorical variables.
+
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
 # Results
